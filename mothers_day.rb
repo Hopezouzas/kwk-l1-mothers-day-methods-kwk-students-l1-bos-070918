@@ -6,4 +6,4 @@ end
 puts mothers_day
 
 mothers_day("beyonce")
-puts mothers_day
+puts mothers_day("beyonce")
